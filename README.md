@@ -5,6 +5,9 @@ Real-Time Insights: Building a Medallion Architecture for Formula 1 Telemetry wi
 
   ![](./assets/Architecture-1.png)
 
+Here is the medallion architecture for the telemetry data:
+  ![](./assets/Architecture-2.png)
+
 ## Requirements
 - Forza Mortorsport - Xbox or PC (included with [XBox Game Pass](https://www.xbox.com/en-ca/xbox-game-pass))
 - .NET 8
