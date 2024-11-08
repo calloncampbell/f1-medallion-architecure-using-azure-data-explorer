@@ -3,7 +3,7 @@
 ## Overview
 Real-Time Insights: Building a Medallion Architecture for Formula 1 Telemetry with Azure Data Explorer
 
-  ![](./assets/architecture-1.png)
+  ![](./assets/Architecture-1.png)
 
 ## Requirements
 - Forza Mortorsport (Xbox or PC)
