@@ -6,7 +6,7 @@ Real-Time Insights: Building a Medallion Architecture for Formula 1 Telemetry wi
   ![](./assets/Architecture-1.png)
 
 ## Requirements
-- Forza Mortorsport (Xbox or PC)
+- Forza Mortorsport - Xbox or PC (included with [XBox Game Pass](https://www.xbox.com/en-ca/xbox-game-pass))
 - .NET 8
 - Forza-Telemetry-Bridge (https://github.com/clemensv/forza-telemetry-bridge)
   - I added some additional telemetry channels, so demo is based on my fork (https://github.com/calloncampbell/forza-telemetry-bridge) 
